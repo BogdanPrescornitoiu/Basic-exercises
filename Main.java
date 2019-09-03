@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println(Functions.isPalindrome("Helloolleh"));
 
-        System.out.println(Functions.fibSeries(17));
+        System.out.println(Functions.fibSeries(8));
 
         System.out.println(Functions.isFibonacci(144));
 
